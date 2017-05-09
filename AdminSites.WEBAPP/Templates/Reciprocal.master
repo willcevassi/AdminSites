@@ -1,0 +1,11 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPages/root.Master" AutoEventWireup="true" CodeBehind="Reciprocal.master.cs" Inherits="AdminSites.WEBAPP.Templates.Reciprocal" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceTopo" runat="server">
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceMenu" runat="server">
+</asp:Content>
+<asp:Content ID="Content4" ContentPlaceHolderID="ContentPlaceConteudo" runat="server">
+</asp:Content>
+<asp:Content ID="Content5" ContentPlaceHolderID="ContentPlaceRodape" runat="server">
+</asp:Content>
